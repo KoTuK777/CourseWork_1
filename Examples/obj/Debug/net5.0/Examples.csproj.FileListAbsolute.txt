@@ -1,0 +1,16 @@
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.exe
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.deps.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.runtimeconfig.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.runtimeconfig.dev.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\ref\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\net5.0\Examples.pdb
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.csprojAssemblyReference.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.AssemblyInfoInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.AssemblyInfo.cs
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.csproj.CoreCompileInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\ref\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.pdb
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\net5.0\Examples.genruntimeconfig.cache

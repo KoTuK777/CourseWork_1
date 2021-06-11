@@ -1,0 +1,13 @@
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.exe
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.deps.json
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.runtimeconfig.json
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.runtimeconfig.dev.json
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.dll
+D:\NUWM\CodeLabs\CourseWork\Mapper\bin\Debug\netcoreapp3.1\Mapper.pdb
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.csprojAssemblyReference.cache
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfoInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfo.cs
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CoreCompileInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.dll
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.pdb
+D:\NUWM\CodeLabs\CourseWork\Mapper\obj\Debug\netcoreapp3.1\Mapper.genruntimeconfig.cache

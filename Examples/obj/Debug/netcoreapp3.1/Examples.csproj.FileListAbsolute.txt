@@ -1,0 +1,13 @@
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.exe
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.deps.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.runtimeconfig.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.runtimeconfig.dev.json
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\bin\Debug\netcoreapp3.1\Examples.pdb
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.csprojAssemblyReference.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.AssemblyInfoInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.AssemblyInfo.cs
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.csproj.CoreCompileInputs.cache
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.dll
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.pdb
+D:\NUWM\CodeLabs\CourseWork\Examples\obj\Debug\netcoreapp3.1\Examples.genruntimeconfig.cache
